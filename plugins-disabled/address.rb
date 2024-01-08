@@ -12,7 +12,7 @@ authors [
 version "0.1"
 description "This plugin identifies the 'address' (X)HTML/XML element and extracts its value."
 
-# Google rsults as at 2011-01-25 #
+# Google results as of 2011-01-25 #
 # 124,000,000 for "Apache" "Server at" intitle:"index of"
 
 
